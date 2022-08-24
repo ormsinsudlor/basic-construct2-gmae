@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1661234975,
+	"version": 1661321146,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,7 +30,6 @@
 		"images/คูณ-sheet0.png",
 		"images/หาร-sheet0.png",
 		"images/รวม-sheet0.png",
-		"images/bgบวก-sheet0.png",
 		"images/goบวก-sheet0.png",
 		"images/reบวก-sheet0.png",
 		"images/reลบ-sheet0.png",
